@@ -6,3 +6,4 @@ The batch file consists of 7 steps:
 5. Get the Anydesk version
 6. Ping Google and Yandex
 7. Determine your local and external IP addresses
+Applicable to Windows 10 and 11
